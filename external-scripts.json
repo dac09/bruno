@@ -11,5 +11,9 @@
   "hubot-maps",
   "hubot-redis-brain",
   "hubot-rules",
-  "hubot-shipit"
+  "hubot-shipit",
+	"hubot-httpdog",
+	"hubot-jenkins",
+	"hubot-newrelic2",
+	"hubot-jira-bot"
 ]
